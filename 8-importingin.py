@@ -15,3 +15,12 @@ print(datetime.datetime.now())
 
 #--------------------------------#
 
+import sys
+print(sys.version)
+
+#--------------------------------#
+
+import calendar
+print(calendar.month(2026 ,3 ))
+
+#--------------------------------#
